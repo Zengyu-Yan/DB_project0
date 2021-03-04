@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/vienleih/Desktop/Study/DB/Project/Project-0-yan_previous/project/"), "project-0-yan_previous-build")...
+[debug] Done updating ProjectRef(uri("file:/Users/vienleih/Desktop/Study/DB/Project/Project-0-yan_previous/project/"), "project-0-yan_previous-build")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
